@@ -1,7 +1,1 @@
-[noahhetrick.com](http://noahhetrick.com)
-
-credits: 
-
-- [html5up.net](https://html5up.net/) ([@ajlkn](https://twitter.com/ajlkn))
-
-- [unsplash.com](https://unsplash.com/photos/SPoHKx9dOJM)
+credit to [ajlkn](https://aj.lkn.io/) for the design, and [Jason Abdilla](https://unsplash.com/@jabdilla_creative) for the image.
