@@ -166,6 +166,21 @@ input, select, textarea {
 		text-decoration: none;
 		color: #f5a623;
 	}
+
+	a.highlight-username {
+		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		border-bottom: none;
+		text-decoration: none;
+		color: #f5a623;
+	}
+	
+	a.highlight-username:hover {
+		text-transform: lowercase;
+		text-decoration: none;
+	}
 	
 	a:hover {
         color: #ffffff;
